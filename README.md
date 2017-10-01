@@ -1,7 +1,7 @@
 # My Windows apps for Development
 
 
-> Remember, not every application on this list you needed, is my reference
+> Remember, not every application on this list you needed, this is my requirement for developing apps. if you like used same application you're welcome to use that.
 
 
 #### 1. Cmder
